@@ -129,4 +129,4 @@ Para agregar un nuevo controlador o expansión, replicar la estructura de carpet
 
 ---
 
-*Repositorio mantenido por el equipo de desarrollo PLC.*
+*Repositorio mantenido por RiskElectro.*
