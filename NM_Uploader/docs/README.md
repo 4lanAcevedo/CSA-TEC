@@ -1,5 +1,72 @@
-NM_UPLOADER V1.0
-Esta es la primera version del gestor de programas para la plataforma NM32, con ella se pueden gestionar los codigos que encontraras en este repositorio para cargar el que desee utilizar con su controlador correspondiente.
-![Menu](img/menu.png)
-En el menu principal se puede observar un selector de puertos en el cual solo apareceran los dispositivos conectados al equipo por lo tanto debemos de tener conectado el controlador y dar click en el boton "Actualizar puertos" para que aparezca en la interfaz, cuando lo seleccionemos en la terminal nos saldra el siguiente mensaje: Puerto seleccionado COM_X
-![Port Select](img/Port-Select.png)
+<h1 align="center">NM Uploader</h1>
+
+<p align="center">
+  Herramienta para carga de firmware y gestión de dispositivos ESP32
+</p>
+
+<p align="center">
+  <img src="img/logo.png" width="200">
+</p>
+
+---
+
+## 📌 Descripción
+
+NM Uploader es una aplicación diseñada para facilitar la carga de firmware en dispositivos ESP32 de manera rápida y sencilla.
+
+---
+
+## 🖥️ Interfaz
+
+<div align="center">
+
+### 🔌 Selección de puerto
+<img src="img/port-select.png" width="500">
+
+<br><br>
+
+### 📋 Menú principal
+<img src="img/menu.png" width="500">
+
+</div>
+
+---
+
+## ⚙️ Características
+
+- Selección automática de puertos
+- Interfaz simple e intuitiva
+- Compatible con múltiples dispositivos
+- Proceso de carga optimizado
+
+---
+
+## 📦 Instalación
+
+1. Descargar la última versión desde `releases`
+2. Ejecutar el instalador
+3. Conectar el dispositivo
+4. Seleccionar el puerto y cargar
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- Python / C++ (según tu caso)
+- ESP32
+- Serial Communication
+
+---
+
+## 📷 Vista rápida
+
+<p align="center">
+  <img src="img/port-select.png" width="45%">
+  <img src="img/menu.png" width="45%">
+</p>
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo licencia MIT.
