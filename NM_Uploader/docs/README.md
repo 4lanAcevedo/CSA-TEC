@@ -29,6 +29,21 @@ Tambien se puede hacer uso directamente de la plataforma Arduino/ESP-IDF.
 ### 🔌 Selección de puerto
 <img src="img/Port-Select.png" width="1000">
 
+<br><br>
+
+### ​🔍​ Selector de placa
+<img src="img/dispositivo.png" width="1000">
+
+<br><br>
+
+### 💻​ Firmware
+<img src="img/firmware.png" width="1000">
+
+<br><br>
+
+### ​📤​ Flashear
+<img src="img/flashear.png" width="1000">
+
 </div>
 
 ---
@@ -65,7 +80,6 @@ Tambien se puede hacer uso directamente de la plataforma Arduino/ESP-IDF.
 ## 📷 Vista rápida
 
 <p align="center">
-  <img src="img/port-select.png" width="1000">
   <img src="img/menu.png" width="1000">
 </p>
 
