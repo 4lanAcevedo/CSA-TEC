@@ -1,0 +1,11 @@
+{
+  "device": "PWM WEB",
+  "version": "1.0.0",
+  "chip": "esp32c3",
+  "baud": 460800,
+  "files": [
+    { "offset": "0x0", "file": "bootloader.bin" },
+    { "offset": "0x8000", "file": "partitions.bin" },
+    { "offset": "0x10000", "file": "firmware.bin" }
+  ]
+}
