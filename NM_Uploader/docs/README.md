@@ -22,12 +22,12 @@ Tambien se puede hacer uso directamente de la plataforma Arduino/ESP-IDF.
 <div align="center">
 
 ### 🔌 Selección de puerto
-<img src="img/Port-Select.png" width="800">
+<img src="img/Port-Select.png" width="1000">
 
 <br><br>
 
 ### 📋 Menú principal
-<img src="img/menu.png" width="600">
+<img src="img/menu.png" width="1000">
 
 </div>
 
@@ -65,8 +65,8 @@ Tambien se puede hacer uso directamente de la plataforma Arduino/ESP-IDF.
 ## 📷 Vista rápida
 
 <p align="center">
-  <img src="img/port-select.png" width="45%">
-  <img src="img/menu.png" width="45%">
+  <img src="img/port-select.png" width="1000">
+  <img src="img/menu.png" width="1000">
 </p>
 
 ---
