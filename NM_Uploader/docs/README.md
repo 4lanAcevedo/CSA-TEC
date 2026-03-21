@@ -1,7 +1,7 @@
 <h1 align="center">NM Uploader</h1>
 
 <p align="center">
-  Herramienta para carga de firmware y gestión de dispositivos NM32
+  Herramienta para carga de firmware y gestión de dispositivos NM32 V1.0
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@ Tambien se puede hacer uso directamente de la plataforma Arduino/ESP-IDF.
 
 <div align="center">
 
-### 🔌 Selección de puerto
-<img src="img/Port-Select.png" width="1000">
+### 📋 Menú principal
+<img src="img/menu.png" width="1000">
 
 <br><br>
 
-### 📋 Menú principal
-<img src="img/menu.png" width="1000">
+### 🔌 Selección de puerto
+<img src="img/Port-Select.png" width="1000">
 
 </div>
 
