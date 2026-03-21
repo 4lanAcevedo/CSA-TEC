@@ -22,7 +22,7 @@ Tambien se puede hacer uso directamente de la plataforma Arduino/ESP-IDF.
 <div align="center">
 
 ### 🔌 Selección de puerto
-<img src="img/Port-Select.png" width="600">
+<img src="img/Port-Select.png" width="800">
 
 <br><br>
 
