@@ -65,7 +65,8 @@ Tambien se puede hacer uso directamente de la plataforma Arduino/ESP-IDF.
 4. Seleccionar el puerto
 5. Descargue la carpeta con el codigo que desea utilizar
 6. Verifica el dispositivo y vea el mensaje del terminal
-7. por ultimo cargue el programa al dispositivo "Flashear"
+7. Seleccione la carpeta con el programa a utilizar
+8. Por ultimo cargue el proyecto pulsando en "Flashear"
 
 ---
 
@@ -82,6 +83,8 @@ Tambien se puede hacer uso directamente de la plataforma Arduino/ESP-IDF.
 <p align="center">
   <img src="img/menu.png" width="1000">
 </p>
+
+- Puede hacer una prueba rrapida con el codigo de prueba que se encuentra en `docs/ejemplo`
 
 ---
 
