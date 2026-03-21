@@ -1,11 +1,11 @@
 <h1 align="center">NM Uploader</h1>
 
 <p align="center">
-  Herramienta para carga de firmware y gestión de dispositivos ESP32
+  Herramienta para carga de firmware y gestión de dispositivos NM32
 </p>
 
 <p align="center">
-  <img src="img/logo.png" width="200">
+  <img src="img/Logo NM-UPLOADER-Photoroom.png" width="200">
 </p>
 
 ---
