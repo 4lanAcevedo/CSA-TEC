@@ -12,7 +12,8 @@
 
 ## 📌 Descripción
 
-NM Uploader es una aplicación diseñada para facilitar la carga de firmware en dispositivos ESP32 de manera rápida y sencilla.
+NM Uploader es una aplicación diseñada para facilitar la carga de firmware en dispositivos NM32 de manera rápida y sencilla.
+Tambien se puede hacer uso directamente de la plataforma Arduino/ESP-IDF.
 
 ---
 
@@ -21,12 +22,12 @@ NM Uploader es una aplicación diseñada para facilitar la carga de firmware en 
 <div align="center">
 
 ### 🔌 Selección de puerto
-<img src="img/port-select.png" width="500">
+<img src="img/Port-Select.png" width="600">
 
 <br><br>
 
 ### 📋 Menú principal
-<img src="img/menu.png" width="500">
+<img src="img/menu.png" width="600">
 
 </div>
 
@@ -43,16 +44,19 @@ NM Uploader es una aplicación diseñada para facilitar la carga de firmware en 
 
 ## 📦 Instalación
 
-1. Descargar la última versión desde `releases`
-2. Ejecutar el instalador
-3. Conectar el dispositivo
-4. Seleccionar el puerto y cargar
+1. Descargar la última versión desde `installer`
+2. Ejecutar el instalador segun el sistema operativo
+3. Conectar el dispositivo de la familia NM_X
+4. Seleccionar el puerto
+5. Descargue la carpeta con el codigo que desea utilizar
+6. Verifica el dispositivo y vea el mensaje del terminal
+7. por ultimo cargue el programa al dispositivo "Flashear"
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
 
-- Python / C++ (según tu caso)
+- Python 
 - ESP32
 - Serial Communication
 
@@ -69,4 +73,4 @@ NM Uploader es una aplicación diseñada para facilitar la carga de firmware en 
 
 ## 📄 Licencia
 
-Este proyecto está bajo licencia MIT.
+Este proyecto está bajo licencia CSA.
